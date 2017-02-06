@@ -1,0 +1,43 @@
+---
+title: "Calificaciones por semestre"
+author: "Dulce Rodriguez"
+date: "5/2/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Calificaciones primer semestre
+#### Otono 2015
+Materia | Calificacion
+--- | --- 
+Programacion actuarial I|5
+Conceptos de calculo| 9
+Matematicas basicas| 8 
+Intr a la profesion actuarial| 5
+Problemas de mat. basicas| 8 
+DHPC| 9
+
+## Calificaciones segundo semestre
+#### Primavera 2016
+Materia | Calificacion
+--- | --- 
+Programacion actuarial I| 8
+Teoria del interes I| 7
+Microeconomia| 7
+Calculo diferencial| 7
+Geometria analitica|10
+Teoria de ecuaciones| 8
+
+## Calificaciones tercer semestre
+#### Otono 2016
+Materia | Calificacion
+--- | --- 
+Programacion actuarial II| 7
+Teoria del interes II| 8
+Macroeconomia|7
+Calculo integral|8
+Algebra lineal|5
+DHTIC|9
